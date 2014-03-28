@@ -2,6 +2,8 @@
   "name": "businfo",
   "version": "0.0.1",
   "dependencies": {
-    "request": "^2.34.0"
+    "request": "^2.34.0",
+    "q": "^1.0.0",
+    "lodash": "^2.4.1"
   }
 }
